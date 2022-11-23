@@ -1,5 +1,6 @@
 ```mermaid
 graph TD;
+
     A[INICIO PROGRAMA] -->
     B{SELECCION OPERACION}
     B -->1=SUMA -->cVALOR_1 --> VALOR_2 --> RESULTADO-->A

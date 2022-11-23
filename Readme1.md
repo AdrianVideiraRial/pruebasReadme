@@ -1,3 +1,4 @@
+ 114 lines (62 sloc) 1.86 KB
 # **ENCABEZADO PRINCIPAL** <sub>(en negrita)</b>
 **Esto es una frase en negrita**
 
@@ -22,7 +23,6 @@ ESTO OTRO ES <sub>un ejemplo de subindice</sub>
 ##### ~~QUINTO ENCABEZADO TACHADO~~
 >Una cita para poner algun comentario
 
-
 <sub>Por aqui dejamos un ejemplo del uso de subindices</sub>
 
 ##### SEXTO ENCABEZADO
@@ -30,7 +30,6 @@ ESTO OTRO ES <sub>un ejemplo de subindice</sub>
 <sup>Esto es un ejemplo de un</sup>
 > **Esto es una cita en negrita para que se vea mejor**
 > 
-
 
 Este archivo se ha escrito usando [Visual Studio Code]
 (https://code.visualstudio.com/)
@@ -46,7 +45,6 @@ Este archivo se guardara en el siguiente repositorio de [GitHub]
 - *item 5*
 
 >### **_LOGOTIPO DE JAVA_** 
-
 ![Logo Java](https://www.vectorlogo.zone/logos/java/java-ar21.png)
 
 ### Ejemplo de listado con números
@@ -87,28 +85,3 @@ graph TD;
     B-->D;
     C-->D;
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
